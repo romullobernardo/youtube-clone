@@ -8,7 +8,7 @@ import VideoPlayer          from './components/video_player'
 import                           './App.css'
 
 
-const API_KEY = 'YOUR_API_KEY_HERE'
+const API_KEY = 'AIzaSyBP0k242wo0kMxaZHMuRWC6Xvc-z3TICI4'
 
 
 class App extends Component 
