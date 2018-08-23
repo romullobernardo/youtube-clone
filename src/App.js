@@ -5,8 +5,6 @@ import Search               from './components/search'
 import Playlist             from './components/playlist'
 import VideoPlayer          from './components/video_player'
 
-import                           './App.css'
-
 
 const API_KEY = 'YOUR_YOUTUBE_API_KEY_HERE'
 
