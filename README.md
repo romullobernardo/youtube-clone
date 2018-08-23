@@ -1,1 +1,1 @@
-<h1>A beautiful Youtube clone</h1>
+                                        <h2>A beautiful Youtube clone made in ReactJS</h2>
